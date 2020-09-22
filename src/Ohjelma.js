@@ -42,4 +42,4 @@ function handleAccept(ev) {
     
     tulos.set({text: "Ei ole palindromi"});
   }
-});
+}
