@@ -1,0 +1,9 @@
+{
+  "title": "PalindromiOhjelma",
+  "description": "Tabris.js - PalindromiOhjelma",
+  "category": "Small Apps",
+  "main": "src/Ohjelma.js",
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}
