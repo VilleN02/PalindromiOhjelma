@@ -2,9 +2,9 @@
 <widget id="PalindromiOhjelma.app" version="1.0.0">
   <name>PalindromiOhjelma</name>
   <description>
-    Kivi paperi sakset peli
+    Palindromi Ohjelma
   </description>
-  <author email="tero.ulvinen@edu.vaasa.fi" href="http://vao.fi">
+  <author email="ville.niemi2@edu.vaasa.fi" href="http://vamia.fi">
     TUL
   </author>
 </widget>
