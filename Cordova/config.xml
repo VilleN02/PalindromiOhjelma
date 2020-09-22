@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="kps.app" version="1.0.0">
-  <name>KPS</name>
+<widget id="PalindromiOhjelma.app" version="1.0.0">
+  <name>PalindromiOhjelma</name>
   <description>
     Kivi paperi sakset peli
   </description>
